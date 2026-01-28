@@ -1,9 +1,8 @@
-## Hi there 👋
+##👋 Olá eu sou a kleia
 
-- 🔭 I’m currently working on ... estudo
-- 🌱 I’m currently learning ...curso de gestão e promoção 
-- 💬 Ask me about ... se eu falo inglês 
-- 📫 How to reach me: ...@kleia764 
-- 😄 Pronouns: ...ela/dela
-- ⚡ Fun fact: ... faço  bolo
-
+- 🔭 
+- 🌱 🎓 sou estudante do curso de gestão e programação , atualmente aprendendo e explorando o mundo da tecnologia 
+- 💬 curiosidade: Aprendendo inglês 
+- 📫 como me encontrar( @kleia764 )
+- estagio na worten
+- 
